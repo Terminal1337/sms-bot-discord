@@ -1,4 +1,4 @@
-from dis import disco
+
 import requests,json,discord
 from discord.ext import commands
 bot = commands.Bot(command_prefix='>')
